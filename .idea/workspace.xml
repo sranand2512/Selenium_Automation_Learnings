@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f608def9-d5df-44b8-915e-d1a105b0e80f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Selenium_Automation_Lerning" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2k64wMwWnZwrHAi3JqpCA2XiVbr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.L302.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L303.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L304.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L308.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L309.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/sanan/IdeaProjects/Selenium_Automation_Lerning/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/sanan/IdeaProjects/Selenium_Automation_Lerning/testng_305.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/sanan/IdeaProjects/Selenium_Automation_Lernings/testng_305.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.L298.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.L305.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.L312_Mini_project_finding_element.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.L312_Mini_project_finding_element_id.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.L313_finding_element_linktext.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.L314_finding_element_page_inside_page.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.project_01.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.project_01.testvwoLoginpositive.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.vwoLogin.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sanan/IdeaProjects/Selenium_Automation_Lernings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sanan\IdeaProjects\Selenium_Automation_Lerning" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.saurabhSeleniumAuto.ex_selenium_13_Jul_2024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.vwoLogin">
+    <configuration name="C:/Users/sanan/IdeaProjects/Selenium_Automation_Lerning/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Automation_Learning" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/sanan/IdeaProjects/Selenium_Automation_Lernings/testng_305.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Automation_Learning" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_305.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="project_01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Automation_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.saurabhSeleniumAuto.Z_assignments.Project_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.saurabhSeleniumAuto.Z_assignments.Project_01" />
+      <option name="MAIN_CLASS_NAME" value="com.saurabhSeleniumAuto.Z_assignments.Project_01.project_01" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="project_01.testvwoLoginpositive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Automation_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.saurabhSeleniumAuto.Z_assignments.Project_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.saurabhSeleniumAuto.Z_assignments.Project_01" />
+      <option name="MAIN_CLASS_NAME" value="com.saurabhSeleniumAuto.Z_assignments.Project_01.project_01" />
+      <option name="METHOD_NAME" value="testvwoLoginpositive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vwoLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Automation_Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.saurabhSeleniumAuto.Z_assignments.Project_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.saurabhSeleniumAuto.Z_assignments.Project_01" />
+      <option name="MAIN_CLASS_NAME" value="com.saurabhSeleniumAuto.Z_assignments.Project_01.vwoLogin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.vwoLogin" />
+        <item itemvalue="TestNG.C:/Users/sanan/IdeaProjects/Selenium_Automation_Lernings/testng_305.xml" />
+        <item itemvalue="TestNG.C:/Users/sanan/IdeaProjects/Selenium_Automation_Lerning/testng.xml" />
+        <item itemvalue="TestNG.project_01" />
+        <item itemvalue="TestNG.project_01.testvwoLoginpositive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f608def9-d5df-44b8-915e-d1a105b0e80f" name="Changes" comment="" />
+      <created>1722590934061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722590934061</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../Selenium_Automation_Lerning" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
