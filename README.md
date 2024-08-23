@@ -1,18 +1,17 @@
-### Selenium Automation Framework(with Java)
-- Author - Saurabh Kumar
--
-- # Tech Stach
-    - Java, Selenium, TestNG
-    - Maven, AssertJ, POM
-    - Thread Local Support → Thread Safety
-    - Allure Report
-    - Excel Sheet for Test Data → Data Provider
-    - Read the username and password from Properties-
-    - TestNG, @Test, Before and After Method.
-    - Cloud Grids - Selenoid Docker integration
-    - SonarLint, Java > 8
-    - Run Local and on Selenoid Integration
+# Selenium_Automation_Learnings(with JAVA )
+Author - Saurabh Kumar
 
+### Tech Stack of Web Automation
+1. Programming - Java ( JDK > 22, IntelliJ)
+2. User Interactions, browser Automation Selenium
+3. Test Framework -> TestNG
+4. Build Management -> Maven
+5. Reporting - Allure Report, Extent Report.
+6. Data-Driven - DDT Apache POI.
+7. CI / CD -> GIT, Jenkins
+8. Coding Best Practice- SonarLint
+9. Logs - Log4j
+10. Remote Selenium Grid - Cloud Grid, Selenoid
 
 <img width="1024" alt="Screenshot 2023-10-31 at 12 27 14 PM" src="https://github.com/PramodDutta/AdvanceSeleniumFrameworkTTA/assets/1409610/02b0ef3b-1165-46cf-8c9d-89e41b17032f">
 
@@ -31,6 +30,7 @@
 
 
 https://github.com/PramodDutta/ATB5xWebAutomationFramework/assets/1409610/1bd39751-94e8-4f46-91e4-fd79269f6ee6
+
 
 
 Project 01
